@@ -1,2 +1,0 @@
-# paglogin
- Login page
